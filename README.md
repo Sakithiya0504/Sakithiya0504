@@ -72,12 +72,17 @@ Business analytics project identifying customer conversion bottlenecks through e
 ---
 
 
-## 📈 GitHub Statistics
+## ⭐ Core Competencies
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sakithiya0504&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakithiya0504&layout=compact&theme=transparent&hide_border=true" />
-</p>
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- Business Intelligence
+- Machine Learning
+- Healthcare Analytics
+- Predictive Analytics
+- Data Storytelling
+
 ---
 
 ## 📫 Connect With Me
