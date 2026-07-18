@@ -42,7 +42,7 @@ I'm currently building a portfolio of real-world projects using **Python, SQL, E
 ### 📌 Consumer Behavior Drift Analyzer
 End-to-end customer behavior analytics using RFM analysis, K-Means clustering, and machine learning to identify behavioral drift and generate business recommendations.
 
-🔗 Repository: [LINK](https://github.com/Sakithiya0504/ecommerce_drift_analyzer.git)
+➡️ View Project → [Consumer Behavior Drift Analyzer](https://github.com/Sakithiya0504/ecommerce_drift_analyzer.git)
 
 ---
 
@@ -56,18 +56,15 @@ Healthcare analytics project analyzing air pollution, deprivation, and respirato
 ### 📈 Marketing Funnel Drop-off Investigation
 Business analytics project identifying customer conversion bottlenecks through exploratory data analysis and actionable recommendations.
 
-🔗 Repository: [LINK](https://github.com/Sakithiya0504/marketing-funnel-dropoff-investigation.git)
+➡️ View Project → [Marketing Funnel Drop-off Investigation](https://github.com/Sakithiya0504/marketing-funnel-dropoff-investigation.git)
 
 ---
 
 
-## 📚 Currently Learning
+## 📜 Certifications
 
-- 📊 Advanced SQL
-- 📈 Power BI Dashboard Design
-- 🏥 Healthcare Analytics
-- 📉 Business Intelligence
-- 🌍 Geospatial Analytics
+- Cisco Networking Academy - Data Analytics Essentials
+- 
 
 ---
 
